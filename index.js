@@ -1,3 +1,3 @@
 
 
-onsole.log("newww")
+console.log("newww")
