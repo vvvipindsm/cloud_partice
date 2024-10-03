@@ -1,0 +1,20 @@
+{
+  "name": "cloud_partice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodeks index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvvipindsm/cloud_partice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvvipindsm/cloud_partice/issues"
+  },
+  "homepage": "https://github.com/vvvipindsm/cloud_partice#readme"
+}
